@@ -4,7 +4,7 @@
 
 ## About me
 -  I'm a junior at UC Santa Cruz, studying Computer Science with an interest in Full Stack Development, Software Engineering/Development and Artificial Intelligence
--  **Incoming Software Engineer Intern for HP in Houston Texas
+- **Incoming Software Engineer Intern for HP in Houston Texas
 -  ⚽️ I love soccer and my favorite team is Real Madrid
 
 ## 💻🔨 Tech Stack
