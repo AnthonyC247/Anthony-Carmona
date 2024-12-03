@@ -3,8 +3,8 @@
 [![GitHub Streak](https://streak-stats.demolab.com/?user=AnthonyC247)](https://git.io/streak-stats)
 
 ## About me
--  I'm a junior at UC Santa Cruz, studying Computer Science with an interest in Full Stack Development, Software Engineering/Development and Artificial Intelligence
-- **Incoming Software Engineer Intern for HP in Houston Texas
+- **Computer Science B.S., University of California, Santa Cruz** (Sept. 2022 – June 2026)
+- **HP: Incoming Software Engineer Intern, Houston, Texas** (June. 2025 – September 2026)
 -  ⚽️ I love soccer and my favorite team is Real Madrid
 
 ## 💻🔨 Tech Stack
@@ -18,3 +18,10 @@
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+### Other Technologies
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Scrum/Agile](https://img.shields.io/badge/Scrum/Agile-0E4C92?style=for-the-badge&logo=none&logoColor=white)
