@@ -1,4 +1,4 @@
-# Anthony-Carmona
+# Anthony Carmona
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=AnthonyC247)](https://git.io/streak-stats)
 
